@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609626004295",
+    "project_id": "siestasiestadeneme2",
+    "storage_bucket": "siestasiestadeneme2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609626004295:android:26a91d8d308677ea910a62",
+        "android_client_info": {
+          "package_name": "com.example.siestadeneme2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrryNqbeZrQcD-Covk18DxRjBAgaFxgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609626004295:android:9679ac0030b4024b910a62",
+        "android_client_info": {
+          "package_name": "om.example.siestadeneme2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrryNqbeZrQcD-Covk18DxRjBAgaFxgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
